@@ -39,11 +39,11 @@ The input format includes:
 
 - The number of stations (N) and buses (M).
 - Schedules for each bus, indicating the number of stations visited and their order.
-<img width="694" alt="Screenshot 2023-11-06 at 19 58 57" src="https://github.com/sarparslan/Dijkstra-Bus-Travel-Optimizer/assets/96438389/f0cd801e-e9d7-47a0-9db9-17ed7987a042">
-- 
+<img width="1019" alt="Screenshot 2023-11-06 at 20 11 13" src="https://github.com/sarparslan/Dijkstra-Bus-Travel-Optimizer/assets/96438389/cc8d3bed-409c-4e89-9eed-b573f807d8f6">
+
 
 ## Output Format
 
 The program calculates and displays the minimum travel time to reach each bus station in any location. It provides valuable information about optimizing your bus travel.
-<img width="692" alt="Screenshot 2023-11-06 at 19 59 04" src="https://github.com/sarparslan/Dijkstra-Bus-Travel-Optimizer/assets/96438389/a4c23f8a-02ae-4e51-9e3d-f7254b8b2d77">
+<img width="1019" alt="Screenshot 2023-11-06 at 20 11 28" src="https://github.com/sarparslan/Dijkstra-Bus-Travel-Optimizer/assets/96438389/43c5d026-afe3-4e35-95b9-ef938283773e">
 
